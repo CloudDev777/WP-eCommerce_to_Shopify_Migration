@@ -62,14 +62,3 @@ Manufactures
 * Product Variants: Allow creating product variants based on the available combinations of attribute values
 * Product Inventory: Ignore product inventory for out-of-stock products
 
-
-= CONTACT US =
-
-LitExtension - The Ultimate Shopping Cart Migration
-
-Website: https://litextension.com
-Email: contact@litextension.com
-Skype: litextension
-Facebook: https://www.facebook.com/litextension
-LinkedIn: https://www.linkedin.com/company/litextension
-Twitter: https://twitter.com/litextension
